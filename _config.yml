@@ -47,12 +47,15 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Hadoop
+    web_url: https://hadoop.apache.org/
+    image_url: https://images.squarespace-cdn.com/content/v1/530b4fe4e4b039a663b386ad/1393985701138-APID7N7223YEHX2TT4FD/ke17ZwdGBToddI8pDm48kHYhS3pd-21HXfcygQJ1SCRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyYvqGxiIL0ypFAT-gwPVZewBlYj_0idMRh4roZbHRbURZC5N9ACxTBGSlCY42crEI/hadoop-logo-square.jpg
 
-  - name: Web design
+  - name: Azure
+    web_url: https://azure.microsoft.com/
+    image_url: https://blockapps.net/wp-content/uploads/2019/06/microsoft-azure-cloud-small-square.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: AWS
+    web_url: https://aws.amazon.com/
+    image_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
