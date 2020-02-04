@@ -55,7 +55,22 @@ topics:
     web_url: https://azure.microsoft.com/
     image_url: https://blockapps.net/wp-content/uploads/2019/06/microsoft-azure-cloud-small-square.png
 
-
   - name: AWS
     web_url: https://aws.amazon.com/
     image_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+
+  - name: Linux
+    web_url: https://www.linuxfoundation.org/
+    image_url: https://www.pitt.edu/~jmr250/linux.png
+
+  - name: Gitlab
+    web_url: https://www.linuxfoundation.org/
+    image_url: https://xebialabs.com/wp-content/uploads/2018/10/GitLab.jpg
+
+  - name: Docker
+    web_url: https://www.linuxfoundation.org/
+    image_url: https://ih0.redbubble.net/image.363828010.1364/flat,1000x1000,075,f.u1.jpg
+    
+
+
+    
